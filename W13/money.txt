@@ -1,0 +1,4 @@
+loonies,1.00
+toonies,2.00
+pennies,0.01
+dime,0.10
